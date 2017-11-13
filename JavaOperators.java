@@ -1,7 +1,5 @@
 package com.hcl.java.operators;
 
-import java.util.function.UnaryOperator;
-
 public class JavaOperators {
 
 	public static void main(String[] args) {
