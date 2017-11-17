@@ -8,6 +8,7 @@ Link to Slack (Invitation): Useful for sharing text/code/comments/files
 https://goo.gl/mWx8FG
 
 
-Wiki Home: https://github.com/cesarfloresg/javaCoreTraining/wiki
-Agenda (Training content)
-References, Links to Java Documentation
+Wiki Home: https://goo.gl/8AyDBV
+
+* Agenda (Training content)
+* References, Links to Java Documentation
