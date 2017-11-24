@@ -1,0 +1,9 @@
+
+1. Open Eclipse Preferences
+2. In left menu select "General > Appearance > Colors and Fonts"
+3. In the resulting window under the Java node select "Java Editor Text Font"
+4. Notice button "Edit Default..." is now enabled, click it
+5. Choose your preferred font settings and click OK
+
+Now you will notice that all editor fonts have changed to your selected default (if they were set to the default to begin with).
+Also you can now change any editor back to this setting by selecting the editor font setting and clicking "Go to Default"
