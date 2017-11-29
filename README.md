@@ -61,3 +61,14 @@ Catching and Throwing exceptions
 Multi catch exception
 Try with resources 
 practice
+
+
+Docs
+
+Documentation -> https://docs.oracle.com/javase/8/docs 
+Java SE API   -> https://docs.oracle.com/javase/8/docs/api/index.html 
+keywords      -> https://docs.oracle.com/javase/tutorial/java/nutsandbolts/keywords.html 
+ArrayList API -> https://docs.oracle.com/javase/8/docs/api/java/util/ArrayList.html
+List API      -> https://docs.oracle.com/javase/8/docs/api/java/util/List.html 
+Map API       -> https://docs.oracle.com/javase/8/docs/api/java/util/Map.html 
+Map Interface -> https://docs.oracle.com/javase/tutorial/collections/interfaces/map.html 
