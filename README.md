@@ -7,5 +7,5 @@ Java SE Basic Concepts
 [Link to Slack (Invitation): Useful for sharing text/code/comments/files](https://goo.gl/mWx8FG)  
 ***
 [Wiki Home](https://goo.gl/8AyDBV)  
-[* Content (Training Agenda)](https://github.com/cesarfloresg/javaCoreTraining/wiki/Agenda)  
-[* Documentation and References](https://github.com/cesarfloresg/javaCoreTraining/wiki/References)  
+* [Content (Training Agenda)](https://github.com/cesarfloresg/javaCoreTraining/wiki/Agenda)  
+* [Documentation and References](https://github.com/cesarfloresg/javaCoreTraining/wiki/References)  
